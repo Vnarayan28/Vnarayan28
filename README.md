@@ -49,7 +49,7 @@
 <p align="center">
     <h2 align="center">Visitors Count</h2>
     <p align="center">
-      <img src="https://profile-counter.glitch.me/{Vedant285}/count.svg" alt="VisitorCount">
+      <img src="https://profile-counter.glitch.me/{Vnarayan28}/count.svg" alt="VisitorCount">
     </p>
 </p>
 
